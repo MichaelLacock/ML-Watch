@@ -11,7 +11,7 @@
 
 // I hacked the button so it can control the NeoPixels.
 // It is known as "pin 4" in software.  On the hardware,
-// it's looking at the board USB-C side down and button
+// looking at the board USB-C side down and button
 // on top, solder to the right solder pad for the button.
 
 #define OSversion   "v0.3.1"
